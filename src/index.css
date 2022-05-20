@@ -338,6 +338,8 @@ code {
 	}
 }
 
+
+
 .colored {
     transition:background-color ease-in-out 0.2s;
 	animation-name: background-gradient-animation;
